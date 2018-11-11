@@ -1,2 +1,2 @@
-def "welcome ruby"
+def "welcome to tic tac toe"
 end
